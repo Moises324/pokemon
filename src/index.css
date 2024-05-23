@@ -1,0 +1,6 @@
+.active {
+  color: rgb(51, 255, 0) !important;
+}
+.inActive {
+  color: rgb(255, 0, 0) !important;
+}
